@@ -5,16 +5,16 @@ Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedu
 ---
 
 ## 📌 Daftar Isi
-*   [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-*   [Fitur Utama](#-fitur-utama)
-*   [Struktur Database](#-struktur-database)
-*   [Struktur File](#-struktur-file)
-*   [Alur Pengguna](#-alur-pengguna)
-*   [Cara Menjalankan](#-cara-menjalankan)
+*   [Teknologi yang Digunakan](#teknologi)
+*   [Fitur Utama](#fitur)
+*   [Struktur Database](#database)
+*   [Struktur File](#file)
+*   [Alur Pengguna](#alur)
+*   [Cara Menjalankan](#run)
 
 ---
 
-## 💻 Teknologi yang Digunakan
+## <a id="teknologi"></a>💻 Teknologi yang Digunakan
 
 | Komponen | Detail |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedu
 
 ---
 
-## 🚀 Fitur Utama
+## <a id="fitur"></a>🚀 Fitur Utama
 
 ### Pengguna Umum (Klien/Publik)
 *   **Homepage & Informasi:** Menampilkan profil perusahaan, armada, dan metrik bisnis secara visual.
@@ -49,7 +49,7 @@ Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedu
 
 ---
 
-## 🗄️ Struktur Database
+## <a id="database"></a>🗄️ Struktur Database
 
 Database bernama **`db_portospace`** dengan tabel-tabel berikut:
 
@@ -63,7 +63,7 @@ Skema lengkap tersedia di file **`db_portospace.sql`**.
 
 ---
 
-## 📁 Struktur File
+## <a id="file"></a>📁 Struktur File
 
 ```text
 porto-space/
@@ -92,7 +92,7 @@ porto-space/
 
 ---
 
-## 🗺️ Alur Pengguna
+## <a id="alur"></a>🗺️ Alur Pengguna
 
 ```text
 Beranda (index.php)
@@ -117,7 +117,7 @@ Beranda (index.php)
 
 ---
 
-## ⚙️ Cara Menjalankan
+## <a id="run"></a>⚙️ Cara Menjalankan
 
 1. **Clone Repository:**
    Unduh file ZIP atau jalankan `git clone` ke dalam folder *local server* Anda:
