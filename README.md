@@ -5,12 +5,12 @@ Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedu
 ---
 
 ## 📌 Daftar Isi
-*   [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-*   [Fitur Utama](#fitur-utama)
-*   [Struktur Database](#struktur-database)
-*   [Struktur File](#struktur-file)
-*   [Alur Pengguna](#alur-pengguna)
-*   [Cara Menjalankan](#cara-menjalankan)
+*   [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+*   [Fitur Utama](#-fitur-utama)
+*   [Struktur Database](#-struktur-database)
+*   [Struktur File](#-struktur-file)
+*   [Alur Pengguna](#-alur-pengguna)
+*   [Cara Menjalankan](#-cara-menjalankan)
 
 ---
 
