@@ -58,6 +58,7 @@ porto-space/
 │
 ├── db_portospace.sql     → Skrip blueprint Database (Struktur tabel & Dummy Data)
 └── assets/               → Direktori file media (Background, Ikon, Gambar Kapal)
+```
 
 ## 🗺️ Alur Pengguna
 Beranda (index.php)
