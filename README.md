@@ -1,14 +1,14 @@
 # PORTO SPACE - Orbital Logistics & Fleet Telemetry
 
-Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedural & MySQLi**. Platform ini dirancang untuk mendigitalisasi pengajuan kargo satelit (dari klien publik) dan menyediakan pusat komando rahasia bagi admin untuk mengelola pelacakan armada pesawat luar angkasa (OTV) secara *real-time*.
+Porto Space adalah platform logistik luar angkasa dinamis berbasis **PHP Procedural & MySQLi**. Platform ini dirancang untuk mendigitalisasi pengajuan kargo satelit (dari klien publik) dan menyediakan pusat komando rahasia bagi admin untuk mengelola pelacakan armada pesawat luar akasa (OTV) secara *real-time*.
 
 ---
 
 ## 📌 Daftar Isi
-*   [Fitur Utama](#-fitur-utama)
-*   [Struktur File](#-struktur-file)
-*   [Alur Pengguna](#-alur-pengguna)
-*   [Cara Menjalankan](#-cara-menjalankan)
+*   [Fitur Utama](#fitur-utama)
+*   [Struktur File](#struktur-file)
+*   [Alur Pengguna](#alur-pengguna)
+*   [Cara Menjalankan](#cara-menjalankan)
 
 ---
 
@@ -60,7 +60,10 @@ porto-space/
 └── assets/               → Direktori file media (Background, Ikon, Gambar Kapal)
 ```
 
+---
+
 ## 🗺️ Alur Pengguna
+
 ```text
 Beranda (index.php)
 ├── Gateway Publik
@@ -82,7 +85,10 @@ Beranda (index.php)
                 └── Visualisasi Data ───────> Menampilkan grafik matriks operasional
 ```
 
+---
+
 ## ⚙️ Cara Menjalankan
+
 1. **Clone Repository:**
    Unduh file ZIP atau jalankan `git clone` ke dalam folder *local server* Anda:
    * Windows: `C:\xampp\htdocs\porto-space`
@@ -101,3 +107,6 @@ Beranda (index.php)
    * **Halaman Publik:** `http://localhost/porto-space/index.php`
    * **Halaman Admin:** `http://localhost/porto-space/login.php`
    * **Kredensial Admin:** Username: `admin` | Password: `aidanganteng`
+```
+
+---
