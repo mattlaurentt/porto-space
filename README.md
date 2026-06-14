@@ -61,6 +61,7 @@ porto-space/
 ```
 
 ## 🗺️ Alur Pengguna
+```text
 Beranda (index.php)
 ├── Gateway Publik
 │   ├── About Us (about.php)
@@ -79,6 +80,7 @@ Beranda (index.php)
             │
             └── Tactical HUD (stats.php)
                 └── Visualisasi Data ───────> Menampilkan grafik matriks operasional
+```
 
 ## ⚙️ Cara Menjalankan
 1. **Clone Repository:**
